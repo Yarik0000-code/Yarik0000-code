@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yarik0000-code
+- 👀 I’m interested in creating code for microcontrollers and servers using C++ and Python
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I really like network gear and other type of communications between smart devices
